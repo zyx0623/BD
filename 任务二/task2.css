@@ -1,0 +1,33 @@
+*	{padding: 0;
+	margin: 0;}
+html{background-color: black;
+	padding: 5%;
+	margin: 5%;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	padding-top: 0;}
+body{background-color: white;
+	padding: 0;
+	margin: 0;}
+h1{width: 100px;
+	float: left;
+	margin-bottom: 0;
+	}
+article{padding: 2%;
+background-color: gray;}
+nav{margin-left: 80%;}
+div{margin: 5%;
+	padding: 5%;
+	border-style: solid;
+	border-width: 1px;}
+p.photo{	margin: 10%;
+			border-style: solid;
+			border-width: 1px;	
+			border-spacing:10px;}
+table{
+	border-spacing: 0;
+	border-style: none;
+}
+th{background-color: black;
+	color: white;}
